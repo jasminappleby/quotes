@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Shizuru&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+span {
+    font-family: 'Shizuru', cursive;
+    font-size: larger;
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+}
+
